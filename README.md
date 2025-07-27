@@ -34,15 +34,15 @@ O código também inclui uma rotina de aquisição de dados do ADC (canal 0, GPI
 
 **Atalhos de teclado no terminal (pressione apenas a tecla):**
 
-| Tecla  | Função                                                           |
-|--------|------------------------------------------------------------------|
-| `a`    | Monta o cartão SD (`mount`)                                      |
-| `b`    | Desmonta o cartão SD (`unmount`)                                 |
-| `c`    | Lista os arquivos do cartão SD (`ls`)                            |
-| `d`    | Lê e exibe o conteúdo do arquivo `adc_data2.txt`                 |
-| `e`    | Mostra o espaço livre no cartão SD (`getfree`)                   |
-| `f`    | Captura 128 amostras do ADC e salva no arquivo `adc_data2.txt`   |
-| `h`    | Exibe os comandos disponíveis (`help`)                           |
+| Tecla  | Função                                                               |
+|--------|----------------------------------------------------------------------|
+| `a`    | Monta o cartão SD (`mount`)                                          |
+| `b`    | Desmonta o cartão SD (`unmount`)                                     |
+| `c`    | Lista os arquivos do cartão SD (`ls`)                                |
+| `d`    | Lê e exibe o conteúdo do arquivo `adc_data2.txt`                     |
+| `e`    | Mostra o espaço livre no cartão SD (`getfree`)                       |
+| `f`    | Captura 128 amostras do MPU6050 e salva no arquivo `MPU6050_dat1.csv`|
+| `h`    | Exibe os comandos disponíveis (`help`)                               |
 
 
 ## Gera gráficos
