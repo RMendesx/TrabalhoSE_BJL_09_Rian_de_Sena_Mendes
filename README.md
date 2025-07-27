@@ -52,4 +52,4 @@ A biblioteca matplotlib é usada para produção gráfica.
 A IDE do Thonny pode ser utilizada.
 
 
----
+-----------------------
